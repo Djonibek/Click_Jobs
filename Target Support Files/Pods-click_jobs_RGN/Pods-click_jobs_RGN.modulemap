@@ -1,0 +1,6 @@
+framework module Pods_click_jobs_RGN {
+  umbrella header "Pods-click_jobs_RGN-umbrella.h"
+
+  export *
+  module * { export * }
+}
